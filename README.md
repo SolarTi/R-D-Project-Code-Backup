@@ -3,6 +3,7 @@
 
 This project is implemented by using Vue.JS, Firebase, CometChat API and Tailwind CSS.  
 We used Scrum as our methodology. And we also implemented some usability test plan (Both questionaire and discovering-based).  
+Visit this website via: https://verdantoff.com/#/ 
 
 For the introduction of this project, please browse our poster (Poster Version 3)
 
